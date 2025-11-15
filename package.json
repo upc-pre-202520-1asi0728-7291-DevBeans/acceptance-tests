@@ -1,0 +1,23 @@
+{
+  "name": "bean-detect-ai-acceptance-tests",
+  "version": "1.0.0",
+  "description": "Acceptance tests for BeanDetectAI project",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0"
+  },
+  "author": "Oscar Gabriel Aranda Vallejos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upc-pre-202520-1asi0728-7291-DevBeans/acceptance-tests.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upc-pre-202520-1asi0728-7291-DevBeans/acceptance-tests/issues"
+  },
+  "homepage": "https://github.com/upc-pre-202520-1asi0728-7291-DevBeans/acceptance-tests#readme"
+}
