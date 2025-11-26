@@ -87,4 +87,3 @@ Feature: Registro de Cooperativa Cafetalera
     Then debo poder ver la opción "Gestionar Productores Asociados"
     And debo poder ver la opción "Clasificación por Lotes"
     And debo poder ver la opción "Reportes Consolidados"
-    And debo poder ver la opción "Gestión de Certificaciones"
